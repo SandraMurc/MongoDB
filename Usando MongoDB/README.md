@@ -1,2 +1,0 @@
-# UsandoMongoDB
- Tarea Core
